@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1641300126 source:d:\folder claudiu\facultate fii uaic\an 1\semestrul 1\introducere in programare\exercitii code blocks\proiect_ip\main.cpp
+	<iostream>
+	<fstream>
+	<graphics.h>
+	<winbgim.h>
+	<string>
+	<map>
+	<vector>
+	<windows.h>
+
